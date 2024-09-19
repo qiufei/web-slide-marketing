@@ -1,3 +1,3 @@
-# web-slide-r
+# web-slide-marketing
 
-R语言课程幻灯片
+营销课程幻灯片
