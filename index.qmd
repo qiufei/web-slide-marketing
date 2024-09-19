@@ -1,0 +1,44 @@
+---
+title: "统计学习导论"
+# image: profile.jpg
+# about:
+#   template: broadside
+#   links:
+#     - icon: envelope
+#       text: Email
+#       href: mailto:hfutqiufei@163.com
+#     - icon: fab fa-weibo
+#       text: 微博
+#       href: https://weibo.com/u/1651226607
+#     - icon: origin:知
+#       text: 知乎
+#       href: https://www.zhihu.com/people/cionysus
+#     - icon: fab fa-weixin
+#       text: 微信
+#       href: weixin:cionysus
+#     - icon: github
+#       text: Github
+#       href: https://github.com/qiufei
+# email-obfuscation: javascript
+---
+
+
+## 教材
+
+教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。
+
+https://www.statlearning.com/
+
+
+
+
+
+## ppt
+
+
+<a href="./html/tt.html"> 第一章 </a>
+
+嗷嗷的阿啊阿
+
+
+<a href="./html/seconde.html"> 第二章 </a>
