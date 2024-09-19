@@ -1,5 +1,5 @@
 ---
-title: "统计学习导论"
+title: "金融服务营销"
 # image: profile.jpg
 # about:
 #   template: broadside
@@ -22,23 +22,25 @@ title: "统计学习导论"
 # email-obfuscation: javascript
 ---
 
-
-## 教材
-
-教材采用著名的ISLR(Introduction to Statistical Learning)和ESL(Elements of Statistical Learning)两本书，这两本书是统计学习领域的经典教材，内容涵盖了统计学习的基础知识和进阶知识，适合初学者和进阶者阅读。
-
-https://www.statlearning.com/
-
-
-
-
-
 ## ppt
 
 
-<a href="./html/tt.html"> 第一章 </a>
+<a href="./html/ch1.html"> 第一章 </a>
 
-嗷嗷的阿啊阿
+<a href="./html/ch2.html"> 第二章 </a>
 
+<a href="./html/ch3.html"> 第三章 </a>
 
-<a href="./html/seconde.html"> 第二章 </a>
+<a href="./html/ch4.html"> 第四章 </a>
+
+<a href="./html/ch5.html"> 第五章 </a>
+
+<a href="./html/ch6.html"> 第六章 </a>
+
+<a href="./html/ch7.html"> 第七章 </a>
+
+<a href="./html/ch8.html"> 第八章 </a>
+
+<a href="./html/ch9.html"> 第九章 </a>
+
+<a href="./html/ch10.html"> 第十章 </a>
