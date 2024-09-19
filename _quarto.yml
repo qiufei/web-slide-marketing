@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://qiufei.site/web-slide-r
+  site-url: https://qiufei.site/web-slide-marketing
   search: false
   # 设置网站图标
   favicon: profile.jpg
