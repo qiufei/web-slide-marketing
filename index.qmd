@@ -22,7 +22,7 @@ title: "金融服务营销"
 # email-obfuscation: javascript
 ---
 
-## ppt
+# ppt
 
 
 <a href="./html/ch1.html"> 第一章 </a>
@@ -44,3 +44,136 @@ title: "金融服务营销"
 <a href="./html/ch9.html"> 第九章 </a>
 
 <a href="./html/ch10.html"> 第十章 </a>
+
+
+# 营销作品赏析
+
+
+
+## 1 导论
+
+[银联支付--时代宏大叙事--历史记忆--16.14](https://www.bilibili.com/video/BV1u4411d7wC/?spm_id_from=333.999.0.0 "机构，credit")
+
+[解构式营销--1.31--银联](https://www.bilibili.com/video/BV1YT4y1M7cd/?spm_id_from=333.999.0.0)
+
+
+
+## 2 金融营销环境
+
+[支付宝--credit--7.36](https://www.bilibili.com/video/BV1kJ411v7i6/?spm_id_from=333.999.0.0)
+
+
+[民生银行--谐音民生--3.08](https://www.bilibili.com/video/BV1nZ4y1i7bb/?spm_id_from=333.999.0.0 "机构整体")
+
+[上海农商行--普惠金融--4.16](https://www.bilibili.com/video/BV1YT4y1d7GJ/?spm_id_from=333.999.0.0 "普惠，机构")
+
+[小微企业贷--7.12--微众银行](https://www.bilibili.com/video/BV1BZ4y1U7US/?spm_id_from=333.999.0.0 "不服")
+
+## 3 金融市场购买者行为
+
+[消费主义/付出有回报--1.01--银联](https://www.bilibili.com/video/BV1cZ4y1371x/?spm_id_from=333.999.0.0)
+
+[消费主义--1.10--支付是福](https://www.bilibili.com/video/BV1vh411f7DY/?spm_id_from=333.999.0.0)
+
+[时间价值/跨期配置--2.55--泰国银行](https://www.bilibili.com/video/BV1Ss411p71t/?spm_id_from=333.999.0.0)
+
+[投资--2.30--泰国银行](https://www.bilibili.com/video/BV1us411Q7Hn/?spm_id_from=333.999.0.0)
+
+[社区银行--5.14--民生银行](https://www.bilibili.com/video/BV1jt4y1e781/?spm_id_from=333.999.0.0)
+
+## 4 金融营销品牌和定位
+
+[个体贷款--5.30--招联金融](https://www.bilibili.com/video/BV1m64y1e7Hq/?spm_id_from=333.999.0.0)
+
+[服务实体--3.02--中国银联](https://www.bilibili.com/video/BV1Ka411F7Ru/?spm_id_from=333.999.0.0)
+
+[联接--1.53--微信支付](https://www.bilibili.com/video/BV1Y4411C72t/?spm_id_from=333.999.0.0)
+
+[公益温情--2.52--腾讯公益](https://www.bilibili.com/video/BV1s4411y7cz/?spm_id_from=333.999.0.0)
+
+## 5 市场战略
+
+[保险机构--9.45--人民保险](https://www.bilibili.com/video/BV14t411G7AU/?spm_id_from=333.999.0.0)
+
+[特殊市场--2.51--光大银行](https://www.bilibili.com/video/BV1hv411N7J8/?spm_id_from=333.999.0.0 "你的声音")
+
+## ti 6 金融营销策略及机构服务质量管理
+
+[个人防风险--5.13--众安保险](https://www.bilibili.com/video/BV1bb411Y7FL/?spm_id_from=333.999.0.0)
+
+[社区银行/服务温度--5.27--杭州银行](https://www.bilibili.com/video/BV1sZ4y1d77e/?spm_id_from=333.999.0.0)
+
+[贷款还款--3.02--泰国银行](https://www.bilibili.com/video/BV1Ui4y1M779/?spm_id_from=333.999.0.0)
+
+## 7 金融营销产品策略
+
+[1212谐音--1.18--银联](https://www.bilibili.com/video/BV1dJ411D7zh/?spm_id_from=333.999.0.0 "谐音")
+
+[62节/支付--13.04--银联](https://www.bilibili.com/video/BV1st4y1k78c/?spm_id_from=333.999.0.0)
+
+[城市化个人风险--3.49--泰国保险](https://www.bilibili.com/video/BV1Ze4y1i7Mf/?spm_id_from=333.999.0.0 "现代社会的孤独")
+
+
+
+## 7  金融促销策略
+
+[个人防风险/信仰不会给你付款--3.37--泰国保险](https://www.bilibili.com/video/BV1XN4y1u7XU/?spm_id_from=333.999.0.0)
+
+[信仰--5.49--中信银行](https://www.bilibili.com/video/BV18t411i7Zc/?spm_id_from=333.999.0.0)
+
+
+
+
+## 8 金融营销定价
+
+[云闪付--4.10--银联](https://www.bilibili.com/video/BV1Gb411w7Vy/?spm_id_from=333.999.0.0)
+
+[云闪付嵌套--4.46--银联](https://www.bilibili.com/video/BV1Xt411j7cp/?spm_id_from=333.999.0.0)
+
+[无手续费--2.54--银联](https://www.bilibili.com/video/BV1Yt411g73C/?spm_id_from=333.999.0.0)
+
+## 8 金融营销渠道
+
+[无手续费--11.51--银联](https://www.bilibili.com/video/BV1bL411L7nk)
+
+[联接--3.15--泰国银行](https://www.bilibili.com/video/BV1Tx411x7nF/?spm_id_from=333.999.0.0)
+
+[链家--2.04--渠道](https://www.bilibili.com/video/BV1Q34y1J7uL/?spm_id_from=333.999.0.0)
+
+## 9 金融新媒体营销
+
+[短视屏玩梗--11.00--日本彩票](https://www.bilibili.com/video/BV1U5411Z7qX/?spm_id_from=333.999.0.0)
+
+[恶搞联通--4.55--非金融](https://www.bilibili.com/video/BV1Ni4y1E7E8/?spm_id_from=333.999.0.0)
+
+## 10 金融客户关系管理
+
+[温情吸引--3.01--日本保险](https://www.bilibili.com/video/BV1T34y1C7ga/?spm_id_from=333.999.0.0)
+
+[情感吸引--4.32--泰国保险](https://www.bilibili.com/video/BV1Gi4y1u72k/?spm_id_from=333.999.0.0)
+
+[技术吸引--3.01--英国保险](https://www.bilibili.com/video/BV187411d7Hf/?spm_id_from=333.999.0.0)
+
+[文化吸引--3.05--美国保险](https://www.bilibili.com/video/BV14W411i7WC/?spm_id_from=333.999.0.0)
+
+# 营销黑榜
+
+## 低级重复
+
+[低级重复/口号不可信--2.01--民生银行](https://www.bilibili.com/video/BV1sJ411t7gs/?spm_id_from=333.999.0.0)
+
+[低级重复--1.10--京东金融](https://www.bilibili.com/video/BV1Tf4y1v7ow/?spm_id_from=333.999.0.0)
+
+## 广告与产品功能脱节
+
+[主题不突出--7.32--招商银行](https://www.bilibili.com/video/BV1pq4y1y7qh/?spm_id_from=333.999.0.0)
+
+[产品与演员不契合--6.38--三星证券](https://www.bilibili.com/video/BV1Wx411p7Y1/?spm_id_from=333.999.0.0)
+
+[主题模糊--9.14--中信银行](https://www.bilibili.com/video/BV19x411s7Yi/?spm_id_from=333.999.0.0)
+
+[贩卖的情感与产品低相关--4.12--招商银行](https://www.bilibili.com/video/BV1us411T7XD/?spm_id_from=333.999.0.0)
+
+## 价值观导向问题
+
+[不正确的价值观--1.37--支付宝国际版](https://www.bilibili.com/video/BV16x411y78e/?spm_id_from=333.999.0.0)
